@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mbogie/gorillaMux"
+	"github.com/gorilla/mux"
 	"github.com/mbogie/trailhead-rest-api/trailhead"
 )
 
