@@ -44,7 +44,7 @@ This endpoint returns public Profile information found on trailblazer.me like ab
 https://trailhead-rest-api.herokuapp.com/trailblazer/<trailhead_handle>/badges
 ```
 
-This endpoint returns badges earned by the Trailblazer. The API only gives a max of 30 at a time. You can filter badges by sending a string at the end of the URL. Possible filter values are: all, module, superbadge, event, and project. [Example](https://go-trailhead-leaderboard-api.herokuapp.com/trailblazer/matruff/badges/superbadge)
+This endpoint returns badges earned by the Trailblazer. The API only gives a max of 30 at a time. You can filter badges by sending a string at the end of the URL. Possible filter values are: all, module, superbadge, event, and project. [Example](https://trailhead-rest-api.herokuapp.com/trailblazer/michalbogusz/badges/superbadge)
 
 ``` text
 https://trailhead-rest-api.herokuapp.com/trailblazer/<trailhead_handle>/badges/<offset>
