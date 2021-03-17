@@ -59,3 +59,8 @@ https://trailhead-rest-api.herokuapp.com/trailblazer/<trailhead_handle>/certific
 ```
 
 This endpoint returns Certifications the Trailblazer has achieved. [Example](https://trailhead-rest-api.herokuapp.com/trailblazer/michalbogusz/certifications)
+
+### Thanks
+Thanks to @meruff.
+
+Original data from github.com/meruff/go-trailhead-leaderboard-api
