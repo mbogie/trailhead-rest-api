@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gorilla/mux"
-	"github.com/meruff/go-trailhead-leaderboard-api/trailhead"
+	"github.com/mbogie/gorillaMux"
+	"github.com/mbogie/trailhead-rest-api/trailhead"
 )
 
 const (
