@@ -63,4 +63,4 @@ This endpoint returns Certifications the Trailblazer has achieved. [Example](htt
 ### Thanks
 Thanks to @meruff.
 
-Original data from github.com/meruff/go-trailhead-leaderboard-api
+Original data: **github.com/meruff/go-trailhead-leaderboard-api**
