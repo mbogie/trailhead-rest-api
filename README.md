@@ -1,4 +1,4 @@
-# Go Trailhead Leaderboard API
+# Trailhead Rest API
 
 A Golang app that runs on Heroku to make callouts to `trailhead.me/` and displays returned JSON data. That data can then be used in other applications. You can also clone and deploy this to your own Heroku instance.
 
@@ -59,7 +59,3 @@ https://trailhead-rest-api.herokuapp.com/trailblazer/<trailhead_handle>/certific
 ```
 
 This endpoint returns Certifications the Trailblazer has achieved. [Example](https://trailhead-rest-api.herokuapp.com/trailblazer/michalbogusz/certifications)
-
-## Special Thanks
-
-Thanks to both [@Patlatus](https://github.com/Patlatus/Salesforce-Trailhead-Api-Hack) and [@krankekatze](https://github.com/krankekatze/trailhead-batch) for the inspiration to build this. Check out their repos for related solutions.
